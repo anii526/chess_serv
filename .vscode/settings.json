@@ -1,4 +1,7 @@
 {
     "prettier.tabWidth": 4,
-    "prettier.trailingComma": "all"
+    "prettier.trailingComma": "all",
+    "editor.formatOnSave": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true
 }
